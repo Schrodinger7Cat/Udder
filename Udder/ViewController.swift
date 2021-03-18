@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     override func viewWillAppear(_ animated: Bool) {
-        //
+        print("Good bye, my love, good bye")
     }
     
     override func viewDidDisappear(_ animated: Bool) {
